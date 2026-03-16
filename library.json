@@ -14,10 +14,10 @@
       "maintainer": true
     }
   ],
-  "version": "0.3.0",
+  "version": "0.4.0",
   "license": "MPL2.0",
   "frameworks": "arduino",
-  "platforms": "*",
+  "platforms": "zephyr",
   "dependencies":
   {
     "name": "arduino-libraries/Arduino_RPClite"
